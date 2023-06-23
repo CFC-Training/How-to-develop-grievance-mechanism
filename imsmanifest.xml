@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<manifest identifier="E5WPXNu5qxW_Z7mtyniUpSKUHyjD55d8Gy9YgYO-" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>How to develop a Grievance Mechanism</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>How to develop a Grievance Mechanism</title>
+        <adlcp:datafromlms>eyJjcHYiOiJHeTlZZ1lPLSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/c_W5qBLWrDGDYVts-Arial-ItalicMT.woff" />
+<file href="scormcontent/lib/fonts/p9VKH2hiJewknWhN-Arial-BoldMT.woff" />
+<file href="scormcontent/lib/fonts/ltXlW1hp4sJZZmHa-ArialMT.woff" />
+<file href="scormcontent/lib/fonts/jYf05s7_n0gwZkPP-Georgia.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/MOarOizV_m3qck-R_small.png" />
+<file href="scormcontent/assets/3WeIIn2ZwjRBuj_y_mountains.jpg" />
+<file href="scormcontent/assets/1G3zMEqFJdmyUZAU_oohYP5jdQWRt1pBp.png" />
+<file href="scormcontent/assets/7ikAbnXP7_tl0W1__6YXPs4eUSCkPQRqN.png" />
+<file href="scormcontent/assets/keabTLjcv9s_ZpPx_QRZDavrgAAQ4-QN2.jpg" />
+<file href="scormcontent/assets/Xk8AQdngC8QCPt_w_IBO7XplzmdrkqjU-.jpg" />
+<file href="scormcontent/assets/UwPEgJhjAdYrQndO_LNguv8diSQMOh-cc.jpg" />
+<file href="scormcontent/assets/smuh5YZtpPXQwPd5_pUao_4kULG1ZBf8O.png" />
+<file href="scormcontent/assets/vMKd9Fju7RonYpcH_ZruNVF4oU0EUa9ew.png" />
+<file href="scormcontent/assets/D_Cxc2TnJu_t1bVa_Xxf3YwowtHXHMtjv.jpg" />
+<file href="scormcontent/assets/c2U_5gmNZXj2E_Q5_2pjXyBeGcvLA2ALH.jpg" />
+<file href="scormcontent/assets/B136JI7wTLJ2t4-o_MCzQoB3Dya0Mw-8i.jpg" />
+<file href="scormcontent/assets/1c-wHeXykmXSs90d_O-zsfYOVZvkq-ebB.png" />
+<file href="scormcontent/assets/7UMUyliumcUOC8YD_z25lsIMSdu1THYwp.png" />
+<file href="scormcontent/assets/Lgu7zFBWFPuNElcK_5b00Mt5d0PIuDTCD.png" />
+<file href="scormcontent/assets/Z7wAwBfuQmpGDll5_62fN_czuYgT4XyqO.png" />
+<file href="scormcontent/assets/yALpiFZ9EvJEf4tY_sCLUzczWb4lnQ2cn.jpg" />
+<file href="scormcontent/assets/xJUsCTi-5r-oGPfB_x2BaIr8mzCX9gVo9-Example%20of%203%20stage%20approach%20to%20grievance%20resolution.pdf" />
+<file href="scormcontent/assets/g5b0ePHAiy42zLte_FgdhCinuj90bp81d.jpg" />
+<file href="scormcontent/assets/18FOROE4y5ev0MVZ_bike.jpg" />
+<file href="scormcontent/assets/lY-BPGJdjuRJEbAJ_VcIHprvyAoo_rAlp.jpg" />
+<file href="scormcontent/assets/eUculMHolA4Z5Ig4_3_cities.jpg" />
+<file href="scormcontent/assets/KK88c7EWsekQgN_r_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
